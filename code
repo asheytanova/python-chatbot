@@ -1,9 +1,3 @@
-# name
-# fav colour
-# fav food
-# fav movie
-# fav season
-
 # Introduction + How is the users' day
 day = str(input("Hello I am a chatbot, has your day been good or bad? \n"))
 day = day.lower()
